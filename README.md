@@ -1,4 +1,4 @@
-# 🧠 Home Lab Setup: Windows Server 2019 
+# 🧠 Active Directory Home Lab Setup
 
 This project documents my hands-on experience building a basic enterprise network simulation using **Oracle VirtualBox** and **Windows Server 2019**. I successfully set up a domain controller, DHCP server, and a Windows 10 client joined to the domain.
 
